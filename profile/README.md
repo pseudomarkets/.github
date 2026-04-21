@@ -2,6 +2,7 @@
 The Pseudo Markets project aims to provide a realistic simulated stock trading experience by leveraging real market data and business rules used in the U.S equities market. It is actively being re-developed from the ground up using the latest version of .NET along with a simplified architecture that is scalable for platform growth. 
 
 # Features
+Current
 * Real market data sourced from vendors such as Twelve Data
 * Cash (paper money) based buys and sells for most U.S exchange listed stocks and ETFs
 * Accurate simulation of common trading rules, such as T+1 settlement
