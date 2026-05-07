@@ -3,7 +3,7 @@ The Pseudo Markets project aims to provide a realistic simulated stock trading e
 
 # Features
 Current
-* Real market data sourced from vendors such as Twelve Data
+* Real market data sourced from vendors such as FinnHub.io
 * Cash (paper money) based buys and sells for most U.S exchange listed stocks and ETFs
 * Accurate simulation of common trading rules, such as T+1 settlement
 * Free sign-up, no tracking, no data collection, and no ads
